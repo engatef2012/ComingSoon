@@ -95,7 +95,7 @@ h6 {
 #header {
   position: relative;
   width: 100%;
-  padding: 100px 0 0;
+  padding: 5px 0 0;
   /* countdown */
 }
 
@@ -109,7 +109,7 @@ h6 {
 
 #header h2 {
   color: #eee;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
   font-size: 22px;
 }
 
@@ -188,7 +188,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 50px 0;
+  padding: 20px 0;
 }
 
 .section-bg {
